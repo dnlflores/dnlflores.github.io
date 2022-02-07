@@ -619,6 +619,16 @@ progress {
   object-fit: cover;
 }
 
+@media (max-width: 1200px) {
+  .img-thumbnail {
+    height: 11rem;
+  }
+
+  .img-fit {
+    max-width: 490px
+  }
+}
+
 .figure {
   display: inline-block;
 }
