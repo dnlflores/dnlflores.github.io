@@ -11729,7 +11729,7 @@ body {
 }
 
 .img-fit {
-  width: 32.7rem;
+  width: 100%;
   height: 22rem;
   object-fit: cover;
 }
